@@ -1,0 +1,1 @@
+This is the libs project of our gradle multi-project build.  
